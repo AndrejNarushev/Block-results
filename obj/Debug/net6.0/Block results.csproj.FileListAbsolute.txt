@@ -1,0 +1,15 @@
+C:\Users\Bug\Desktop\Block results\bin\Debug\net6.0\Block results.exe
+C:\Users\Bug\Desktop\Block results\bin\Debug\net6.0\Block results.deps.json
+C:\Users\Bug\Desktop\Block results\bin\Debug\net6.0\Block results.runtimeconfig.json
+C:\Users\Bug\Desktop\Block results\bin\Debug\net6.0\Block results.dll
+C:\Users\Bug\Desktop\Block results\bin\Debug\net6.0\Block results.pdb
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.csproj.AssemblyReference.cache
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.AssemblyInfoInputs.cache
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.AssemblyInfo.cs
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.csproj.CoreCompileInputs.cache
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.dll
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\refint\Block results.dll
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.pdb
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\Block results.genruntimeconfig.cache
+C:\Users\Bug\Desktop\Block results\obj\Debug\net6.0\ref\Block results.dll
