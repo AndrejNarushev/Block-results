@@ -4,20 +4,20 @@ Console.Clear();
 Console.WriteLine("<<Программа, которая из массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам.>>");
 Console.WriteLine();
 Console.WriteLine("Выберите вариант работы.");
-Console.WriteLine("1 - Задать кол-во и содержание массивов лично.");
+Console.WriteLine("1 - Задать кол-во элементов (строк) и содержание массива лично.");
 Console.WriteLine("2 - Выполнить заданный массив.");
 Console.Write("Введите вариант: ");
 int len = 3;
 int x = Convert.ToInt32(Console.ReadLine());
 
-if(x!=1 && x!=2)
+if(x!=1 && x!=2)                                     // ошибка выбора варианта
 {
     Console.Clear();
     Console.WriteLine(" !!! Введен не верный вариант. Попробуйте заново. !!!");
 }
 
 else {
-    if(x==1)                                         // вариант 2 (выполнение заданного массива)
+    if(x==1)                                         // вариант 1 (ввод массива)
         {
         Console.Clear(); 
         Console.Write("Укажите количество элементов (строк) в массиве: ");
@@ -78,7 +78,6 @@ Console.Write("Сформированный массив: ");
 PrintArray(b);
 Console.Write("");
     }
-}
    
     void PrintArray(string[] array)                 // функция вывода на печать
 {
@@ -86,6 +85,7 @@ Console.Write("");
     {
         Console.Write(array[i] + " ");
     }
+}
 }
 
 
