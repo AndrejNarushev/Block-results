@@ -17,7 +17,7 @@
 
 ## *Этап 2*
 
-![Блок схема расположена по адресу: Block results\image\diagram.jpg](image\diagram.jpg)
+![Блок схема расположена в папке \image, файл \diagram.jpg](image\diagram.jpg)
 
 ## *Этап 3*
 
